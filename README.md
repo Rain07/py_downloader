@@ -10,15 +10,3 @@ how to use :
 	choose if the page have full links or not (probabely yes except for ftp)
 	enjoy :)
 	if you want to close or pause, just force close program, next time you run program and enter link, it will continue
-
-ایده اصلی برنامه :
-https://rsharifnasab.blog.ir/1397/11/07/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%85%D9%86%DB%8C%D8%AC%D8%B1-%D8%AE%D9%88%D8%AF%D9%85
-
-راهنمای نصب در ویندوز :
-http://rsharifnasab.blog.ir/1397/11/08/use_py_dl_win
-
-راهنمای نصب py_downloader در گنو/لینوکس:
-http://rsharifnasab.blog.ir/1397/11/08/use_py_dl_linux
-
-راهنمای استفاده:
-http://rsharifnasab.blog.ir/1397/11/08/howto_py_download
