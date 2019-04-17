@@ -10,3 +10,4 @@ how to use :
 	choose if the page have full links or not (probabely yes except for ftp)
 	enjoy :)
 	if you want to close or pause, just force close program, next time you run program and enter link, it will continue
+poipo
